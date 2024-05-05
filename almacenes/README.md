@@ -12,4 +12,5 @@ https://www.youtube.com/watch?v=-SzKqwgPTyk
 https://springdoc.org/  
 
 #### Herramientas
+Template Live: https://github.com/gumiel/gestion_almacenes/blob/master/recursos/settings.zip
 Estilo de codificación: https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml  
