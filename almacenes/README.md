@@ -10,7 +10,8 @@ http://server:port/context-path/v1/resource/action/slug?parameter=150
 #### Aprendizaje
 https://www.youtube.com/watch?v=-SzKqwgPTyk  
 https://springdoc.org/  
+https://www.youtube.com/watch?v=Kln66OZIZME  
 
 #### Herramientas
-Template Live: https://github.com/gumiel/gestion_almacenes/blob/master/recursos/settings.zip
+Template Live: https://github.com/gumiel/gestion_almacenes/blob/master/recursos/settings.zip  
 Estilo de codificación: https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml  
